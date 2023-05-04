@@ -5,3 +5,5 @@
 -  lệnh tạo scss
    npm i -D sass
 -  reset css : npm install --save normalize.css
+-  cài thư viện classnames
+   npm i classnames
